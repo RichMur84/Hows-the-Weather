@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+  
+}
+
+body {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(images/summmer.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+.container{
+background-color: aqua;
+border-radius: 5%;
+}
+.col-sm-12{
+  width: 100%;
+  margin: 0 auto;
+  color:rgb(27, 17, 5);
+  font-family: 'Courier New', Courier, monospace;
+}
+header{
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background-color: rgb(75, 105, 177);
+}
+h3{
+  font-weight: bold;
+}
+.forecast{
+  
+  font-size: 0.9em;
+}
+span{
+  font-size: 1em;
+}
+li:hover{
+  background-color: lightslategray;
+  text-decoration: underline;
+}
