@@ -23,6 +23,7 @@ Richard Murillo's README
 ## Description
 
 A weather dashboard application where users can search for current and future weather conditions of cities around the world.The site provides the user with the current day forecast as well as a 5 day forecast.
+![screenshot](./assets/images/weather.png)
 
 ## Installation
 
