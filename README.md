@@ -4,6 +4,9 @@ Richard Murillo's README
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![Made with JavaScript](https://img.shields.io/badge/Made_with-JavaScript-blue?logo=javascript&logoColor=white)](https://www.javascript.com/ "Go to JavaScript homepage")
+
+
 ## Table of Contents
 
  * [Description](#description)
@@ -23,6 +26,7 @@ Richard Murillo's README
 ## Description
 
 A weather dashboard application where users can search for current and future weather conditions of cities around the world.The site provides the user with the current day forecast as well as a 5 day forecast.
+![screenshot](./assets/images/weather.png)
 
 ## Installation
 
@@ -48,7 +52,7 @@ NOTICE: This application is covered under the MIT
 
 Have additional questions? Click the links below to reach me through my GitHub account or Email address.
 
-[Link to Github](https://github.com/https://github.com/RichMur84)
+https://github.com/https://github.com/RichMur84
 
 <a href="mailto:grizzlylbc1@gmail.com">grizzlylbc1@gmail.com</a>
 
